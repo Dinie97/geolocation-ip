@@ -19,13 +19,6 @@ defineProps<{ msg: string }>();
       alt="Mobile Image"
     />
 
-    <!-- Tablet image -->
-    <img
-      src="../assets/images/pattern-bg-tablet.png"
-      class="hidden sm:block lg:hidden w-full"
-      alt="Tablet Image"
-    />
-
     <!-- Desktop image -->
     <img
       src="../assets/images/pattern-bg-desktop.png"
